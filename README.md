@@ -9,7 +9,7 @@ The four scripts in this repository help users to extract, update and deploy Azu
 4. Deploy.ps1 - Sample deployment script for the linked ARM templates produced during the extraction
 
 # Addition Information
-Please see the following blog post for additional information - https://www.keithjenneke.com/propagating-azure-apim-config
+Please see the following blog post for additional information - https://www.keithjenneke.com/propagating-azure-api-management-config
 
 # References 
 1. https://github.com/Azure/azure-api-management-devops-resource-kit
